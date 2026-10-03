@@ -136,7 +136,3 @@ ashfall-discord-rpg/
 - **Les commandes n'apparaissent pas** : renseigne `GUILD_ID` et vérifie le scope `applications.commands` à l'invitation.
 - **« Le serveur de jeu ne répond pas »** : `docker compose logs api` ; MySQL met ~30 s au premier démarrage.
 - **Modifier le schéma SQL** : `init.sql` ne s'exécute qu'à la création du volume → `docker compose down -v` puis relancer.
-
-## 📄 Licence
-
-À définir (par exemple MIT).
