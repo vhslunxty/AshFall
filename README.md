@@ -125,9 +125,9 @@ ashfall-discord-rpg/
 
 ## 🛣️ Roadmap
 
-- [ ] Craft : fabriquer des armes avec les matériaux
-- [ ] Boss de serveur : PV partagés, tout le monde attaque
-- [ ] Boutique et quêtes quotidiennes
+- [✅] Craft : fabriquer des armes avec les matériaux
+- [✅] Boss de serveur : PV partagés, tout le monde attaque
+- [✅] Boutique et quêtes quotidiennes
 - [ ] Dashboard web en direct (PHP)
 - [ ] Client Unity branché sur la même API
 
